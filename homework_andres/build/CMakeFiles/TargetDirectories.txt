@@ -1,0 +1,3 @@
+/root/bootcamp-2018/homework/build/CMakeFiles/rebuild_cache.dir
+/root/bootcamp-2018/homework/build/CMakeFiles/Vector_app.dir
+/root/bootcamp-2018/homework/build/CMakeFiles/edit_cache.dir

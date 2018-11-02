@@ -1,0 +1,20 @@
+#include <vector>
+
+//This class provides a unit_vector that 
+
+class unit_vector:
+{
+ public:
+  unit_vector(double& x , double& y , double& z);
+  ~unit_vector();
+  std::vector<double> unit;
+  double x_component;
+  double y_component;
+  double z_component;
+
+ private:
+  double magnitude;
+  double x_;
+  double y_;
+  double z_;
+};
