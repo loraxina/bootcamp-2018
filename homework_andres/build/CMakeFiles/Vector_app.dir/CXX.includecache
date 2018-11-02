@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/bootcamp-2018/homework/Homework_day2/private/main.cpp
+position.h
+/root/bootcamp-2018/homework/Homework_day2/private/position.h
+unit_vector.h
+/root/bootcamp-2018/homework/Homework_day2/private/unit_vector.h
+iostream
+-
+
+/root/bootcamp-2018/homework/Homework_day2/private/position.cpp
+position.h
+/root/bootcamp-2018/homework/Homework_day2/private/position.h
+vector
+-
+
+/root/bootcamp-2018/homework/Homework_day2/private/unit_vector.cpp
+unit_vector.h
+/root/bootcamp-2018/homework/Homework_day2/private/unit_vector.h
+cmath
+-
+vector
+-
+
+/root/bootcamp-2018/homework/Homework_day2/public/position.h
+vector
+-
+
+/root/bootcamp-2018/homework/Homework_day2/public/unit_vector.h
+vector
+-
+cmath
+-
+

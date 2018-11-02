@@ -1,0 +1,8 @@
+Imagine you are part of a software developer team that is developing a new software framework for neutrino telescopes.
+Your task is to implement two classes that represent a position vector and a directional unit vector, respectively. Your
+team puts the implementation details completely into your hands. The only wishes are that it is possible to do arithmetic
+operations on these objects (implement at least the dot product) and that you apply the Rule of Six (see the lecture notes).
+Think also about other potential features: string representation, access operator, initialization list, etc. But try to keep
+the classes as minimal as possible. Optionally, you can create a cmake project for this task and put the class definitions
+into their own header files (do not forget include guards). If you want to be really nice and appreciated by your colleagues,
+document your classes in the header files, for example by using the Doxygen syntax.
